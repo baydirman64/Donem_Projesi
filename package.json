@@ -1,0 +1,8 @@
+{
+  "name": "sehir-sorun-bildir",
+  "version": "1.0.0",
+  "description": "Sehir Sorun Bildir Full-Stack Uygulamasi",
+  "scripts": {
+    "kurulum": "cd backend && npm install && cd ../mobile && npm install"
+  }
+}
